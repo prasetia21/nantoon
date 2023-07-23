@@ -1,4 +1,4 @@
-import Authenticated from '@/Layouts/Authenticated/index';
+import Authenticated from '@/Layouts/Authenticated/Index';
 import SubscriptionCard from '@/Components/SubscriptionCard';
 
 export default function SubscriptionPlan() {
